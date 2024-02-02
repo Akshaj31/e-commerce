@@ -1,6 +1,7 @@
 # Shopper - Your E-Commerce Solution
 
-[Screenshot 2024-02-02 031007](https://github.com/Akshaj31/e-commerce/assets/97737789/d12153e0-4a65-4419-9ed3-22bb1ae61bc2)
+![Screenshot 2024-02-02 031007](https://github.com/Akshaj31/e-commerce/assets/97737789/2401077a-dc3e-42ac-bf65-d68f07e5f1fd)
+
 
 Shopper is a robust and user-friendly e-commerce website developed with Node.js, React.js, MongoDB, and CSS. It provides a seamless and responsive shopping experience for users, along with an intuitive admin page for efficient management of products.
 
